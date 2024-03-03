@@ -128,7 +128,7 @@ ui <- grid_page(
         HTML(
             "
             <hr />
-            <p>This <a href='https://shiny.rstudio.com/'>shiny</a> application was developed by <a href='http://lcolladotor.github.io/'>Leonardo Collado Torres</a>.</p>
+            <p>This <a href='https://shiny.rstudio.com/'>shiny</a> application was developed by <a href='http://lcolladotor.github.io/'>Leonardo Collado Torres</a>. Check the code on <a href='https://github.com/lcolladotor/split_receipt'>GitHub</a>.</p>
         "
         )
     ),
