@@ -148,7 +148,8 @@ ui <- grid_page(
         helpText(
             "This website is meant to help you figure out how much you owe when you split a restaurant / bar bill with your colleagues and/or friends. It makes the simplifying assumption that taxes (and tips) will be split proportionally to what you consumed. For instance, in Maryland (USA) food and alcohol taxes are not the same: it's 6% for food (sales in general) and 9% for alcohol items. If you want to split bills precisely you would need to know what type of tax was applied for every item in a receipt, which is painful. As the difference is typically small, doing the precise math is not needed in general. Thus you can figure out how much you owe by calculating the proportion of the subtotal that you consumed and then multiplying the overall total (after taxes and tips) by that proportion. Then round it off to two decimals."
         )
-    )
+    ),
+    tags$head(tags$link(rel="icon", href="https://github.com/lcolladotor/lcolladotorsource/blob/master/assets/media/icon.png?raw=true"))
 )
 
 
