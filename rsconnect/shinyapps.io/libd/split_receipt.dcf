@@ -1,0 +1,12 @@
+name: split_receipt
+title: split_receipt
+username: libd
+account: libd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11385536
+bundleId: 8321364
+url: https://libd.shinyapps.io/split_receipt/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
